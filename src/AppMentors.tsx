@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 const AppMentors = () => {
   const [person, setPerson] = useState({
-    name: "sonny",
+    name: "yonghee",
     title: "개발자",
     mentors: [
       {
